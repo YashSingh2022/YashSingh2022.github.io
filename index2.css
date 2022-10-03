@@ -24,7 +24,7 @@ h1, p{
 }
 
 h3{
-    color:rgb(100, 0, 0);
+    color:rgb(200, 0, 0);
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
@@ -36,13 +36,13 @@ li {
 .myWeek1{
     margin: auto;
     max-width: 600px;
-    background-color: rgb(89, 228, 212);
+    background-color: rgb(35, 122, 112);
 
       
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(97, 163, 194);
+    border-color: rgb(122, 213, 255);
 }
 
 
