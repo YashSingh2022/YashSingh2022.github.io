@@ -22,7 +22,11 @@ h1, h3, p{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-    
+
+li {
+    text-align: center;
+}
+
 .myWeek1{
     margin: auto;
     max-width: 600px;
