@@ -36,20 +36,18 @@ li {
     border-width: 3px;
     border-style: solid;
     border-radius: 10px;
-    border-color: rgb(100,100,100);
+    border-color: rgb(97, 163, 194);
 }
 
 
 /* Set the apperance of the class, chart */
 .chart{
-    text-align: center;
     background-color: white;
     width:450px;
     border-width: 2px;
     border-style: solid;
     border-radius: 10px;
     border-color: rgb(39, 128, 158);
-    
 }
     
 
