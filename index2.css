@@ -42,12 +42,13 @@ li {
 
 /* Set the apperance of the class, chart */
 .chart{
+    text-align: center;
     background-color: white;
     width:450px;
     border-width: 2px;
     border-style: solid;
     border-radius: 10px;
-    border-color: grey;
+    border-color: rgb(39, 128, 158);
     
 }
     
